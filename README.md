@@ -1,3 +1,7 @@
 # TEthanT.github.io
 320 Final Project
-5/12/220 | 1:22 PM Repo Initialized
+<br>
+Created by: Loc Cao, Ethan Tran
+<br>
+Analysis of Coronavirus Statistics up until May 12th, 2020
+<br>
